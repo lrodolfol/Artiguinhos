@@ -482,3 +482,33 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+./Benchmarks/LoopBenchmark/.vs/
+./Benchmarks/LoopBenchmark/bin/
+./Benchmarks/LoopBenchmark/obj/
+
+./CorridaDeSapos/.vs/
+./CorridaDeSapos/CorridaDeSapos/bin/
+./CorridaDeSapos/CorridaDeSapos/obj/
+
+./Delegates/delegate/.vscode/
+./Delegates/delegate/delegate/.vs/
+./Delegates/delegate/delegate/bin/
+./Delegates/delegate/delegate/obj/
+
+./Delegates/DelegatesCallback/.vs/
+./Delegates/DelegatesCallback/Delegates/bin/
+./Delegates/DelegatesCallback/Delegates/obj/
+
+./Eventos/Eventos/.vs/
+./Eventos/Eventos/Eventos/bin/
+./Eventos/Eventos/Eventos/obj/
+
+./FeatureToggles/vs/
+./FeatureToggles/FeatureToggles/bin/
+./FeatureToggles/FeatureToggles/obj/
+./FeatureToggles/FeatureToggles/.vs/
+
+./Threads/ThreadI/ThreadI/bin/
+./Threads/ThreadI/ThreadI/obj/
+./Threads/ThreadI/.vs/
