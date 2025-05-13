@@ -94,7 +94,7 @@ public class MyBuffer
                 Monitor.Wait(key);
 
             var msg = Messages.Dequeue();
-            Monitor.PulseAll(key);
+                Monitor.PulseAll(key);
 
             return msg;
         }
